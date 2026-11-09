@@ -1,10 +1,10 @@
 {
   "source": "https://github.com/tdlib/td",
-  "sourceRevision": "4c6377aa7386c39217878a9a56d581922ad37ca4",
-  "sourceDate": "2026-10-27T17:52:35+03:00",
+  "sourceRevision": "23383aef218a3123f02b744bfa91bde21056a814",
+  "sourceDate": "2026-11-08T03:31:05+03:00",
   "schemaPath": "td/generate/scheme/telegram_api.tl",
   "versionPath": "td/telegram/Version.h",
-  "latestLayer": 232,
+  "latestLayer": 233,
   "layers": {
     "98": {
       "requestedLayer": 98,
@@ -917,6 +917,14 @@
       "file": "layer-232.tl",
       "sha256": "6628b4c4457112b819f4bd35104170b3610822eed4a54240a304adb28cb66ec6",
       "bytes": 295204
+    },
+    "233": {
+      "requestedLayer": 233,
+      "reportedLayer": 233,
+      "sourceCommit": "562a82abf952fdaf808aca67a1dc5e2698aa0dd3",
+      "file": "layer-233.tl",
+      "sha256": "89bf71464239646c233f0a2a3d77512c9be08e4a63eab362afba0b721f69a26d",
+      "bytes": 299354
     }
   }
 }
