@@ -1,7 +1,7 @@
 {
   "source": "https://github.com/tdlib/td",
-  "sourceRevision": "23383aef218a3123f02b744bfa91bde21056a814",
-  "sourceDate": "2026-11-08T03:31:05+03:00",
+  "sourceRevision": "c8828d50f5eac2fc7089ce1089d7ce9095c61b5e",
+  "sourceDate": "2026-11-09T14:31:00+03:00",
   "schemaPath": "td/generate/scheme/telegram_api.tl",
   "versionPath": "td/telegram/Version.h",
   "latestLayer": 233,
